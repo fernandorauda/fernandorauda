@@ -11,7 +11,7 @@
    <tr>
       <td>
          <a href="https://apps.apple.com/sv/app/hugo/id1186916623">
-         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/66/b0/3866b039-2688-1f61-1ed4-0e57f1ac09d4/AppIcon-1x_U007emarketing-0-8-0-85-220.png/246x0w.webp">
+         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/66/b0/3866b039-2688-1f61-1ed4-0e57f1ac09d4/AppIcon-1x_U007emarketing-0-8-0-85-220.png/246x0w.webp" style="border-radius:15%">
          </a>
       </td>
       <td>
