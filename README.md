@@ -74,3 +74,5 @@
       </td>
    </tr>
 </table>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandorauda&theme=highcontrast&hide_border=true&border_radius=8&ring=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&stroke=515151" alt="fernandorauda"/></p>
