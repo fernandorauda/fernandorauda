@@ -54,22 +54,22 @@
    <tr>
       <td>
          <a href="https://apps.apple.com/sv/app/hugo/id1186916623">
-         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/66/b0/3866b039-2688-1f61-1ed4-0e57f1ac09d4/AppIcon-1x_U007emarketing-0-8-0-85-220.png/246x0w.webp" width="100" height="100">
+         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/66/b0/3866b039-2688-1f61-1ed4-0e57f1ac09d4/AppIcon-1x_U007emarketing-0-8-0-85-220.png/246x0w.webp">
          </a>
       </td>
       <td>
          <a href="https://apps.apple.com/us/app/yummy-delivery/id1506748350">
-         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/93/46/3e934616-c0de-1372-c935-7436a741fb63/AppIconYummy-0-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.webp" width="100" height="100">
+         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/93/46/3e934616-c0de-1372-c935-7436a741fb63/AppIconYummy-0-1x_U007emarketing-0-7-0-85-220-0.png/246x0w.webp">
          </a>
       </td>
       <td>
          <a href="https://apps.apple.com/us/app/bi-en-línea/id510761055">
-         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cf/8f/58/cf8f58d9-0e1e-d732-72dd-4d5a0d106dde/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp" width="100" height="100">
+         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cf/8f/58/cf8f58d9-0e1e-d732-72dd-4d5a0d106dde/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp">
          </a>
       </td>
       <td>
          <a href="https://apps.apple.com/sv/app/banca-móvil-bh/id1520255839">
-         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b3/b1/9a/b3b19a1d-73fa-21c7-7cc2-94fabfb62f55/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/246x0w.webp" width="100" height="100">
+         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b3/b1/9a/b3b19a1d-73fa-21c7-7cc2-94fabfb62f55/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/246x0w.webp">
          </a>
       </td>
    </tr>
