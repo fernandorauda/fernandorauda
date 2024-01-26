@@ -8,42 +8,42 @@
    <tr>
       <td>
          <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"/> 
          </a>
       </td>
       <td>
         <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-           <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
+           <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"/> 
         </a>
       </td>
       <td>
          <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> 
+            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"/> 
          </a>
       </td>
       <td>
          <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="50" height="50"/> 
+            <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"/> 
          </a>
       </td>
       <td>
          <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
          </a>
       </td>
       <td>
          <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
          </a>
       </td>
       <td>
          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"/>
          </a>
       </td>
       <td>
          <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-             <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="50" height="50"/>
+             <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch"/>
          </a>
       </td>
    </tr>
