@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Adonys Rauda</h1>
 <h3 align="left">A passionate iOS Engineer from El Salvador</h3>
 
-- 🔭 I’m currently working on n1co ecosistem apps [n1co](https://n1co.com)
+- 🔭 I’m currently working on n1co ecosystem apps [n1co](https://n1co.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <table style="width:100%">
