@@ -1,9 +1,3 @@
-<style>
-   img {
-  border-radius: 50%;
-}
-</style>
-
 <h1 align="left">Hi 👋, I'm Adonys Rauda</h1>
 <h3 align="left">A passionate iOS Engineer from El Salvador</h3>
 
